@@ -33,7 +33,7 @@ As a user of the application,you will be able to :
  * Access to internet
  ### Installation Process
  ****
-* Clone to thir repo : git clone https://github.com/Albert-Byrone/delani.git
+* Clone to thir repo : git clone https://github.com/infosecmentor/phase1project
 * Unzip the downloaded files in a folder of choice.
 * Open the index file from the zipped file with any browser.
  ****
