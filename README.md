@@ -1,7 +1,7 @@
 # phase1project
  ## Phares Muhambi
 ## Screenshot
- ![image](./assets/project.png)
+ ![image](./assets/Project.png)
  ## Table of Content
  - [Description](#description)
  - [Features](#features)
