@@ -18,7 +18,7 @@
 
 ## Features
 As a user of the application,you will be able to :
-1. See the read stories from Studio Ghilibi.
+1. See the Read stories from Studio Ghilibi.
 [Go Back to the top](#phase1project)
 ## Behaviour Driven Development|
 | Behaviour      | Input        | Output       |
