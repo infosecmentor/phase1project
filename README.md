@@ -45,7 +45,8 @@ As a user of the application,you will be able to :
 * CSS - which was used to style the User Interface.
 * JS-retrieve information from an API and display it on the page.
 
-[Go Back to the top](#delani-studio)
+[Go Back to the top](#phase1project)
+
 ## Known Bugs
 * No known bugs
 ## Licence
