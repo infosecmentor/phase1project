@@ -1,4 +1,4 @@
-# phase1 project
+# phase1project
  ## Phares Muhambi
 ## Screenshot
  ![image](./assets/project.png)
@@ -14,19 +14,19 @@
  - [Authors Info](#Authors-Info)
  ## Description
  <p>This project is a web application that connects to a Studio Ghibli API, retrieves the data with JavaScript, and displays it on the front end of a website.</p>
-[Go Back to the top](#delani-studio)
+[Go Back to the top](#phase1project)
+
 ## Features
 As a user of the application,you will be able to :
-1. See a description of what the services offered by the studio
-1. Can make inquiry through a form.
-[Go Back to the top](#delani-studio)
+1. See the read stories from Studio Ghilibi.
+[Go Back to the top](#phase1project)
 ## Behaviour Driven Development|
 | Behaviour      | Input        | Output       |
 | :------------- | :----------: | -----------: |
-|  Enter your name  |   Albert Byrone |     |
-| Enter your Email Address  | albertbyrone1677@gmail.com |   |
+|  Enter your name  |   Phares Muhambi |     |
+| Enter your Email Address  | muhambiphares@gmail.com |   |
 | Enter your message or comment   |  I would like to inquire about something     |     |
-| Press Submit|     |Pop up "Albert Byrone , we have received your message. Thank you for reaching out to us.|
+| Press Submit|     |Pop up "Phares Muhambi , we have received your message. Thank you for reaching out to us.|
 [Go Back to the top](#delani-studio)
  ###  Requirements
  * Access to  a computer or any other garget
