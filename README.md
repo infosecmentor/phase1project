@@ -67,8 +67,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-[Go Back to the top](#delani-studio)
+[Go Back to the top](#phase1project)
 ## Authors Info
-Slack Profile - [Albert Byrone](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/UKXCHMCNP?cdn_fallback=1)
-Linked - [Albert Byrone](https://www.linkedin.com/in/albert-byrone-664811144/)
-[Go Back to the top](#delani-studio)
+ email:muhambiphares@gmail.com
+[Go Back to the top](#phase1project)
