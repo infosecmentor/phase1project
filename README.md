@@ -1,7 +1,7 @@
-# Delani Studio
- ## By Albert Byrone
+# phase1 project
+ ## Phares Muhambi
 ## Screenshot
- ![image](./assets/delanii.png)
+ ![image](./assets/project.png)
  ## Table of Content
  - [Description](#description)
  - [Features](#features)
