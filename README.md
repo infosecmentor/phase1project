@@ -43,7 +43,8 @@ As a user of the application,you will be able to :
 ### Technology  Used
 * HTML - which was used to develope the structure off the pages.
 * CSS - which was used to style the User Interface.
-* JQUERY - which was used for DOM(Document Object Manipulation) scripts.
+* JS-retrieve information from an API and display it on the page.
+
 [Go Back to the top](#delani-studio)
 ## Known Bugs
 * No known bugs
