@@ -27,7 +27,7 @@ As a user of the application,you will be able to :
 | Enter your Email Address  | muhambiphares@gmail.com |   |
 | Enter your message or comment   |  I would like to inquire about something     |     |
 | Press Submit|     |Pop up "Phares Muhambi , we have received your message. Thank you for reaching out to us.|
-[Go Back to the top](#delani-studio)
+[Go Back to the top](#phase1project)
  ###  Requirements
  * Access to  a computer or any other garget
  * Access to internet
