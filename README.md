@@ -20,7 +20,7 @@
 As a user of the application,you will be able to :
 1.  Read stories from Studio Ghilibi.
 [Go Back to the top](#phase1project)
-## Behaviour Driven Development|
+## Behaviour Driven Development
 | Behaviour      | Input        | Output       |
 | :------------- | :----------: | -----------: |
 |  Enter your name  |   Phares Muhambi |     |
@@ -46,7 +46,7 @@ As a user of the application,you will be able to :
 * JQUERY - which was used for DOM(Document Object Manipulation) scripts.
 [Go Back to the top](#delani-studio)
 ## Known Bugs
-* Mailchimp API does not function correctly as expected.
+* No known bugs
 ## Licence
 MIT License
 Copyright (c) [2019] [Albert Byrone]
