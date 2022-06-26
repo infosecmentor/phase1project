@@ -32,7 +32,7 @@ request.onload = function () {
     })
   } else {
     const errorMessage = document.createElement('marquee')
-    errorMessage.textContent = `Fatal error!`
+    errorMessage.textContent = `Fatal error.!`
     app.appendChild(errorMessage)
   }
 }
