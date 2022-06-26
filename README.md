@@ -14,12 +14,15 @@
  - [Authors Info](#Authors-Info)
  ## Description
  <p>This project is a web application that connects to a Studio Ghibli API, retrieves the data with JavaScript, and displays it on the front end of a website.</p>
+
 [Go Back to the top](#phase1project)
 
 ## Features
 As a user of the application,you will be able to :
 1.  Read stories from Studio Ghilibi.
+
 [Go Back to the top](#phase1project)
+
 ## Behaviour Driven Development
 | Behaviour      | Input        | Output       |
 | :------------- | :----------: | -----------: |
@@ -49,7 +52,7 @@ As a user of the application,you will be able to :
 
 ## Known Bugs
 * No known bugs
-## Licence
+## License
 MIT License
 Copyright (c) [2022] [PharesMuhambi]
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -67,8 +70,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 [Go Back to the top](#phase1project)
+
 ## Authors Info
  email:muhambiphares@gmail.com
- 
+
 [Go Back to the top](#phase1project)
