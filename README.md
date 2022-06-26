@@ -18,7 +18,7 @@
 
 ## Features
 As a user of the application,you will be able to :
-1. See the Read stories from Studio Ghilibi.
+1.  Read stories from Studio Ghilibi.
 [Go Back to the top](#phase1project)
 ## Behaviour Driven Development|
 | Behaviour      | Input        | Output       |
@@ -37,9 +37,9 @@ As a user of the application,you will be able to :
 * Unzip the downloaded files in a folder of choice.
 * Open the index file from the zipped file with any browser.
  ****
- [Go Back to the top](#delani-studio)
+ [Go Back to the top](#phase1project)
 ### Live Link
-- Click this link to view the live application https://albert-byrone.github.io/delani/
+- Click this link to view the live application https://infosecmentor.github.io/phase1project/
 ### Technology  Used
 * HTML - which was used to develope the structure off the pages.
 * CSS - which was used to style the User Interface.
